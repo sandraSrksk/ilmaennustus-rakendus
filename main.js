@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     async function fetchWeather(location) {
-        const apiKey = 'SIIA SISESTAGE OMA OPENWEATHERMAP API VÕTI';
+        const apiKey = '54ba49dde9f2f347bbf4b514c8c90657';
         const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}&units=metric`;
 
         try {

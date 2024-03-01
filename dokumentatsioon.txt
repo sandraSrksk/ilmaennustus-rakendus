@@ -1,0 +1,7 @@
+https://home.openweathermap.org/api_keys
+key: 54ba49dde9f2f347bbf4b514c8c90657
+ilmaennustus	Active
+
+ Rakendan OpenWeatherMap API oma projektis:
+ main.js
+ const apiKey = '54ba49dde9f2f347bbf4b514c8c90657';
